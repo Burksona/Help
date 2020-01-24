@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740065435616",
+    "firebase_url": "https://magariproektiaa.firebaseio.com",
+    "project_id": "magariproektiaa",
+    "storage_bucket": "magariproektiaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740065435616:android:b5038b5d34001103ca9585",
+        "android_client_info": {
+          "package_name": "com.example.kargiaplikacia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740065435616-e5g23ldrps97ihv8diusi10259mh72l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUBklKxL5IZoVau_x1Cm6d5y5fqzCI3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740065435616-e5g23ldrps97ihv8diusi10259mh72l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
